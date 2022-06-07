@@ -1,0 +1,90 @@
+body{
+
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#navbarNav{
+
+    margin-left: 68%;
+
+}
+
+.navbar a{
+    
+    color: white;    
+
+}
+
+.navbar a:hover{
+
+    color: white;
+    font-weight: bold;
+
+}
+
+.navbar a:active {
+
+    color: white;
+    font-weight: bold;
+
+  }
+
+.navbar img{
+	width: 85px;
+}
+
+.iconos i{
+
+    display: inline-block;
+}
+
+.iconos h6{
+
+    display: inline-block;
+}
+
+.precios{
+
+    text-align: right;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+}
+
+.precio1{
+
+    display: inline-block;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    
+}
+
+.precio2{
+
+    display: inline-block;
+    color: #28A745;
+    font-weight: bold;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    
+}
+
+.container-fluid h5{
+
+    text-align: center;
+    color:white;
+    padding-top: 2%;
+}
+
+footer{
+
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    line-height:50px;
+}
+
+footer img{
+
+    width: 85px;
+}
