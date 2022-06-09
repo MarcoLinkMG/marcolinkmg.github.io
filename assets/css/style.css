@@ -30,8 +30,12 @@ body{
 
   }
 
-.navbar img{
-	width: 85px;
+
+
+.portafolio h2{
+
+    text-align: center;
+    border-bottom: 50%;
 }
 
 .iconos i{
@@ -44,31 +48,6 @@ body{
     display: inline-block;
 }
 
-.precios{
-
-    text-align: right;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-
-}
-
-.precio1{
-
-    display: inline-block;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-    
-}
-
-.precio2{
-
-    display: inline-block;
-    color: #28A745;
-    font-weight: bold;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-    
-}
 
 .container-fluid h5{
 
@@ -76,6 +55,7 @@ body{
     color:white;
     padding-top: 2%;
 }
+
 
 footer{
 
