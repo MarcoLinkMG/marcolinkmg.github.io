@@ -59,22 +59,13 @@ body{
     color: #FFFFFF;
 }
 
-.iconos {
 
-    display: inline-block;
-    width: 20%;
-}
-
-.iconos p {
-
-    font-size: 30px;
-    font-weight: 300;
-}
 
 .seccion-iconos h2 {
     font-weight: 500;
     font-size: 50px;
     margin-bottom: 2em;
+    
 }
 
 
